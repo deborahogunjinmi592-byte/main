@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-649-fix-cli-canonicalhash-drops-nested-object-keys",
+    "fix/issue-620-test-frontend-add-tests-for",
+    "fix/issue-624-fix-frontend-map-futurenet-and-unknown",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-649-fix-cli-canonicalhash-drops-nested-object-keys": "main",
+    "fix/issue-620-test-frontend-add-tests-for": "main",
+    "fix/issue-624-fix-frontend-map-futurenet-and-unknown": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-649-fix-cli-canonicalhash-drops-nested-object-keys",
+    "fix/issue-620-test-frontend-add-tests-for",
+    "fix/issue-624-fix-frontend-map-futurenet-and-unknown",
+    "origin"
+  ]
+}
